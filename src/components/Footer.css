@@ -1,0 +1,11 @@
+.footerStyling  a {
+    text-decoration: none;
+    color: black;
+    padding: 0 10px;
+    transition: 0.5s;
+}
+
+.footerStyling a:hover {
+    color: white;
+    transition: 0.5s;
+}
