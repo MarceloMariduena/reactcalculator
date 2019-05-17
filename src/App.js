@@ -52,7 +52,7 @@ class App extends Component {
               <Button handleClick={this.addToInput}>+</Button>
             </div>
             <div className="row"> 
-              <Button handleClick={this.addToInput}>+/-</Button>
+              <Button handleClick={this.addToInput}>0.5</Button>
               <Button handleClick={this.addToInput}>0</Button>
               <Button handleClick={this.addToInput}>.</Button>
               <Button handleClick={this.addToInput}>-</Button>
