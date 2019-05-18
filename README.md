@@ -1,5 +1,5 @@
 ## Calculator Web App
-Technologies:
-React
-Javascript
+Technologies: \n
+React \n
+Javascript \n
 JSX
