@@ -1,1 +1,5 @@
-## ReactJS Calculator
+## Calculator Web App
+Technologies:
+React
+Javascript
+JSX
