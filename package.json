@@ -2,7 +2,7 @@
   "name": "react-calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://MarceloMariduena.github.io/ReactCalculator",
+  "homepage": "http://marcelomariduena.github.io/ReactCalculator",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "mathjs": "^5.10.0",
